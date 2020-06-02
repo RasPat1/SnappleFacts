@@ -1,4 +1,4 @@
-package com.DGI.snapplefacts;
+package com.DGI.unitTests;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
